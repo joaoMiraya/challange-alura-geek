@@ -1,0 +1,120 @@
+{
+  "produtos": [
+    {
+      "id": 2,
+      "imageUrl": "/rocombole.jpg",
+      "nome": "Produto ",
+      "descricao": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+      "valor": "25,00"
+    },
+    {
+      "id": 4,
+      "imageUrl": "/brownie1.jpg",
+      "nome": "Produto ",
+      "descricao": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+      "valor": "25,00"
+    },
+    {
+      "id": 5,
+      "imageUrl": "/cupcake1.jpg",
+      "nome": "Produto ",
+      "descricao": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+      "valor": "25,00"
+    },
+    {
+      "id": 6,
+      "imageUrl": "/diversos1.jpg",
+      "nome": "Produto ",
+      "descricao": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+      "valor": "25,00"
+    },
+    {
+      "id": 7,
+      "imageUrl": "/donuts1.jpg",
+      "nome": "Produto ",
+      "descricao": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+      "valor": "25,00"
+    },
+    {
+      "id": 8,
+      "imageUrl": "/donuts2.jpg",
+      "nome": "Produto ",
+      "descricao": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+      "valor": "25,00"
+    },
+    {
+      "imageUrl": "https://img.freepik.com/free-photo/close-up-white-birthday-cake-with-burning-sparkler_23-2147917432.jpg?w=360&t=st=1690147113~exp=1690147713~hmac=75cbead65bf19d7705bb937fcec4d05a48c77608e2241ef3da29949afe7c1cdf",
+      "nome": "Bolo muito bom",
+      "descricao": "é muito bom msm",
+      "valor": "200,00",
+      "id": 9
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "joao ",
+      "email": "joao@test.com",
+      "senha": "123456"
+    },
+    {
+      "id": 2,
+      "nome": "test ",
+      "email": "test@test.com",
+      "senha": "123456"
+    },
+    {
+      "id": 3,
+      "nome": "test2 ",
+      "email": "test2@test.com",
+      "senha": "123456"
+    },
+    {
+      "nome": "testt",
+      "email": "testando@test.com",
+      "senha": "123456",
+      "id": 38
+    },
+    {
+      "nome": "jones",
+      "email": "jones@adm.com",
+      "senha": "123456",
+      "id": 39
+    },
+    {
+      "nome": "jones",
+      "email": "jones@adm.com",
+      "senha": "123456",
+      "id": 40
+    },
+    {
+      "nome": "",
+      "email": "",
+      "senha": "",
+      "id": 41
+    },
+    {
+      "nome": "",
+      "email": "",
+      "senha": "",
+      "id": 42
+    },
+    {
+      "nome": "fa",
+      "email": "afs@as.com",
+      "senha": "asfas",
+      "id": 43
+    },
+    {
+      "nome": "jones",
+      "email": "joes@adm.com",
+      "senha": "123456",
+      "id": 44
+    },
+    {
+      "email": [],
+      "senha": [],
+      "id": 45
+    }
+  ]
+}
